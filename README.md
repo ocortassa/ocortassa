@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🥑 I work for [Intesa Sanpaolo](https://www.intesasanpaolo.com) as a Solution Architect and Team Leader
+- 🎤 I am a [codemotion](https://events.codemotion.com/webinars/observability-per-governare-la-complessit-di-una-grande-banca) speaker
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/omarcortassa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **ocortassa/ocortassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
